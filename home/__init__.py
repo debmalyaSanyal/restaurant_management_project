@@ -1,6 +1,6 @@
 <!--HTML-->
-<div class = "Homepage">
-<h1>Welcome to the homepage</h1>
+<div class = "homepage">
+<h1>Welcome to the Homepage</h1>
 <p>Making the web beaautigul with css</p>
 <button>Get Started</button>
 </div>
