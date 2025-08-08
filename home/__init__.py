@@ -23,7 +23,7 @@
         color :  #007bff ;
     }
 
-    homepage p{
+    .homepage p{
         font-size : 1.2rem;
         color : #555;
     }
