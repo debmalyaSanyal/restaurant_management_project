@@ -9,28 +9,28 @@
 <style>
     body{
         font-family : 'Segoe UI', sans-serif;
-        background-colour : #f8f9fa;
+        background-color : #f8f9fa;
         margin : 0;
     }
 
     .homepage{
-        text-align : centre;
+        text-align : center;
         padding : 100px 20px
     }
 
     .homepage h1{
         font-size : 3rem;
-        colour :  #007bff ;
+        color :  #007bff ;
     }
 
     homepage p{
         font-size : 1.2rem;
-        colour : #555;
+        color : #555;
     }
 
     .homepage button{
         background : #007bff;
-        colour : white;
+        color : white;
         border : none;
         padding : 12px 24px;
         font-size : 1rem;
@@ -38,7 +38,7 @@
         border_radius : 8px;
     }
 
-    .homepage button: hover{
+    .homepage button:hover {
         background : #0056b3;
     }
 </style>
